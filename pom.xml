@@ -15,7 +15,6 @@
                 <configuration>
                     <archive>
                         <manifestEntries>
-                            <!-- The Main-Class is essential for running the jar file -->
                             <Main-Class>com.example.HelloWorld</Main-Class>
                         </manifestEntries>
                     </archive>
